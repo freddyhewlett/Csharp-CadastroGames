@@ -1,0 +1,5 @@
+C:\Workplace\VS Code\Cadastro.Series\bin\Debug\net5.0\publish\Cadastro.Series.exe
+C:\Workplace\VS Code\Cadastro.Series\bin\Debug\net5.0\publish\Cadastro.Series.dll
+C:\Workplace\VS Code\Cadastro.Series\bin\Debug\net5.0\publish\Cadastro.Series.deps.json
+C:\Workplace\VS Code\Cadastro.Series\bin\Debug\net5.0\publish\Cadastro.Series.runtimeconfig.json
+C:\Workplace\VS Code\Cadastro.Series\bin\Debug\net5.0\publish\Cadastro.Series.pdb

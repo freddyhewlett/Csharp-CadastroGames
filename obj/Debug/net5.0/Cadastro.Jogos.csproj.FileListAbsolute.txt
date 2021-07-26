@@ -1,0 +1,16 @@
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\Cadastro.Jogos.exe
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\Cadastro.Jogos.deps.json
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\Cadastro.Jogos.runtimeconfig.json
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\Cadastro.Jogos.runtimeconfig.dev.json
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\Cadastro.Jogos.dll
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\ref\Cadastro.Jogos.dll
+C:\Workplace\VS Code\Cadastro.Jogos\bin\Debug\net5.0\Cadastro.Jogos.pdb
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.csproj.AssemblyReference.cache
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.AssemblyInfoInputs.cache
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.AssemblyInfo.cs
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.csproj.CoreCompileInputs.cache
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.dll
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\ref\Cadastro.Jogos.dll
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.pdb
+C:\Workplace\VS Code\Cadastro.Jogos\obj\Debug\net5.0\Cadastro.Jogos.genruntimeconfig.cache
